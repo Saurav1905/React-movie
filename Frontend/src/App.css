@@ -1,0 +1,73 @@
+.navbar {
+  background-color: #14142c !important;
+}
+.navbar-brand {
+  color: #78fee0 !important;
+}
+.navbar a {
+  color: #f8f8f8 !important;
+}
+.navbar .active {
+  color: #78fee0 !important;
+  border-bottom: 2px solid #78fee0;
+}
+body {
+  background-color: #181833 !important;
+}
+.list-group-item {
+  background-color: #14142c !important;
+  color: white !important;
+  border-radius: none !important;
+}
+.list-group {
+  border-radius: none !important;
+  width: 80% !important;
+  -webkit-box-shadow: 2px -1px 9px 1px rgba(20, 20, 44, 1);
+  -moz-box-shadow: 2px -1px 9px 1px rgba(20, 20, 44, 1);
+  box-shadow: 2px -1px 9px 1px rgba(20, 20, 44, 1);
+}
+.btn {
+  background-color: #847cdc !important;
+
+  border: none !important;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  color: #544cc4 !important;
+}
+.page-link {
+  background-color: #544cc4 !important;
+  border: none !important;
+}
+.form-group {
+  color: #544cc4 !important ;
+}
+form {
+  width: 80% !important;
+}
+.paginate {
+  display: flex !important;
+  text-align: center !important;
+  align-items: center !important;
+  justify-content: center !important;
+  margin-top: 10% !important;
+}
+.clickable {
+  color: #847cdc !important;
+}
+td {
+  color: #f8f8f8 !important;
+}
+td a {
+  text-decoration: none !important;
+  color: #78fee0 !important;
+}
+p {
+  color: #f8f8f8 !important;
+}
+tr {
+  border: none !important;
+}
